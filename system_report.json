@@ -1,0 +1,59 @@
+{
+    "cpu_usage": 12.2,
+    "memory_usage": {
+        "total": 8269426688,
+        "used": 6650978304,
+        "free": 1618448384,
+        "percent": 80.4
+    },
+    "disk_usage": [
+        {
+            "mountpoint": "C:\\",
+            "total": 300735074304,
+            "used": 165619761152,
+            "free": 135115313152,
+            "percent": 55.1
+        },
+        {
+            "mountpoint": "D:\\",
+            "total": 104856547328,
+            "used": 4224000000,
+            "free": 100632547328,
+            "percent": 4.0
+        },
+        {
+            "mountpoint": "E:\\",
+            "total": 104856547328,
+            "used": 2059993088,
+            "free": 102796554240,
+            "percent": 2.0
+        }
+    ],
+    "top_processes": [
+        {
+            "pid": 0,
+            "name": "System Idle Process",
+            "cpu_percent": 752.3
+        },
+        {
+            "pid": 5356,
+            "name": "MsMpEng.exe",
+            "cpu_percent": 10.9
+        },
+        {
+            "pid": 4,
+            "name": "System",
+            "cpu_percent": 5.7
+        },
+        {
+            "pid": 21628,
+            "name": "python.exe",
+            "cpu_percent": 4.9
+        },
+        {
+            "pid": 2880,
+            "name": "MemCompression",
+            "cpu_percent": 2.6
+        }
+    ]
+}

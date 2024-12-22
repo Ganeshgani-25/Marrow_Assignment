@@ -1,0 +1,19 @@
+CPU Usage,11.3
+
+Memory usage
+total,used,free,percent
+8269426688,6627864576,1641562112,80.1
+
+Disk usage
+mountpoint,total,used,free,percent
+C:\,300735074304,165619761152,135115313152,55.1
+D:\,104856547328,4224000000,100632547328,4.0
+E:\,104856547328,2059993088,102796554240,2.0
+
+Top 5 CPU_consuming processes
+PID,Name,CPU percent
+0,System Idle Process,747.9
+5356,MsMpEng.exe,14.6
+2592,svchost.exe,6.1
+21080,python.exe,4.6
+2880,MemCompression,3.0

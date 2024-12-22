@@ -1,0 +1,16 @@
+CPU usage: 4.6%
+Memory_usage:
+ total: 7.70GB
+ used: 6.16GB
+ free: 1.55GB
+ percent: 79.9%
+Disk_usage:
+ C:\: 55.1%used
+ D:\: 4.0%used
+ E:\: 2.0%used
+Top 5 CPU_consuming processes:
+ PID0 - System Idle Process: 753.7%
+ PID5356 - MsMpEng.exe: 14.0%
+ PID22088 - python.exe: 8.3%
+ PID13224 - vmmemWSL: 3.3%
+ PID4 - System: 2.4%
